@@ -5,6 +5,7 @@ while True:
   if soma_peso + peso_livro <= 18:
     soma_peso += peso_livro
     qtd_livros += 1
+    aposdkpaoskdpaoskp
   else:
     print(qtd_livros)
     break
